@@ -1,6 +1,6 @@
 # Ecological Opportunity and Necessity - Frontiers Paper
 
-This project contains code and supporting files that were used to perform the described experiments from Acosta and Zaman 2022 *Ecological opportunity and necessity: biotic and abiotic drivers interact during diversification of digital host-parasite communities* published in Front. Ecol. Evol. 09 Februrayr 2022. 
+This project contains code and supporting files that were used to perform the described experiments from Acosta and Zaman 2022 *Ecological opportunity and necessity: biotic and abiotic drivers interact during diversification of digital host-parasite communities* published in Front. Ecol. Evol. 09 Februray 2022. 
 
 ## Summary of experiments
 
