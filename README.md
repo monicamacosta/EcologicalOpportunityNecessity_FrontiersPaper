@@ -33,7 +33,7 @@ their ability to evolve various phenotypes, but constrained abiotic complexity t
 | Biotic pressure      | Resource No. | Total possible phenoypes |
 | -------------------- | ------------ | -------------------------|
 | Pathogens            | 1 resource   | 4, 8, 12, 16 or 20       |
-| No pathogens         | 4 resource   | 4, 8, 12, 16 or 20       |
+| No pathogens         | 1 resource   | 4, 8, 12, 16 or 20       |
 
 ### Experiment 3
 
